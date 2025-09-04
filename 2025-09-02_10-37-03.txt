@@ -1,0 +1,271 @@
+﻿Speaker #1: Se teve essa.
+Speaker #1: É o tumores ao pé da praia, agora o caralho.
+Speaker #2: Iá.
+Speaker #1: Sei que as vezes.
+Speaker #1: Ai bem, como é que eu te explico esta merda?
+Speaker #1: É assim, deixa-me explicar o teu projeto. Se é muita
+Speaker #1: estranho, não sei se já ouviste falar de uma merda
+Speaker #1: que é para os barcos.
+Speaker #1: Parques de passeios na Noruega.
+Speaker #1: Tipo passeios em canais pronto.
+Speaker #1: Quer-se fazer tipo 11 aplicação para os gajos que mostra
+Speaker #1: o alcance do barco mostra tipo uns mapas, mostra umas
+Speaker #1: merdas pronto.
+Speaker #1: E para isso, como é óbvio, é preciso uma API,
+Speaker #1: apesar de as pessoas só pensarem nisso no final.
+Speaker #1: E talvez um back Office, mas pronto, eu acho que
+Speaker #1: não precisas de perceber muito da lógica. Por enquanto, vais
+Speaker #1: ver mais ou menos pelas tarefas. Eu já tenho aqui
+Speaker #1: assim mais uma mais ou menos uma lista.
+Speaker #1: Consegui estimar.
+Speaker #1: E é assim, deixa-me então OTP.
+Speaker #1: Porque aquilo a aplicação não sei se vai ter logo
+Speaker #1: ao início parte pública, mas pelo menos AA parte que
+Speaker #1: não é pública tem que ser com OTP ou uma
+Speaker #1: cena do género login, porque é tipo quando compras o
+Speaker #1: bilhete de banda no Banco, OK?
+Speaker #1: Então, tem que ter uma merda para OTP.
+Speaker #1: E teres um SMSO que for.
+Speaker #1: Esta deixe-me para o fim.
+Speaker #1: Pronto, a segunda é a consideração, ou seja, nós vamos
+Speaker #1: estar a consumir 11 API meteorológica.
+Speaker #1: E talvez justifique.
+Speaker #1: Ou seja, não consumir diretamente no na aplicação.
+Speaker #1: E se e fazer talvez cachos de resultados, porque é
+Speaker #1: que eu digo ISTO porque.
+Speaker #1: Tu basicamente vais estar a devolver meteorologia só para aqueles
+Speaker #1: canais na Noruega. É um sítio bué da específico.
+Speaker #1: ISTO é um é um Nice to wed não pá,
+Speaker #1: se não tiveres tempo e coiso não se estima e
+Speaker #1: diz-se que é que é para o futuro para poupar
+Speaker #1: dinheiro é uma merda assim caga-se, mas pronto eu estou.
+Speaker #1: Estou a escrever no chat.
+Speaker #1: Agora não pensares que vais esquecer?
+Speaker #1: Bia-te aqui e Nice deve.
+Speaker #1: Pronto.
+Speaker #1: Depois, os gajos têm no barco uma televisão.
+Speaker #1: Para um Chromecast.
+Speaker #1: Então nós queremos fazer partilha do ecrã para essa televisão,
+Speaker #1: para tu Veres o mapa no ecrã.
+Speaker #1: Porque é que ISTO é relevante para o lado da
+Speaker #1: do Web?
+Speaker #1: Tu Chromecast no fundo, aquela merda vai sempre buscar a
+Speaker #1: um servidor, não é não atiras uma cena direta do
+Speaker #1: teu telemóvel para lá.
+Speaker #1: E a forma mais fácil de fazer.
+Speaker #1: O que eu tive a ver fiz o concept e
+Speaker #1: não sei quê é com um receiver custom que basicamente
+Speaker #1: é só uma página web estática com HTML, JavaScript. O
+Speaker #1: que quiseres que depine. Como é que as coisas são
+Speaker #1: apresentadas? Ou seja, portanto, do lado Web é apresentar uma
+Speaker #1: página Web Web estática é o único desenvolvimento.
+Speaker #1: Não sei se ISTO vai ser com a azur, o
+Speaker #1: que formos certo page esse merda.
+Speaker #1: Tenta ser baratas.
+Speaker #1: Isso mas o que?
+Speaker #1: Pronto depois.
+Speaker #1: Fazemos cálculos de reinos, ou seja, estás num barco elétrico
+Speaker #1: e aquilo diz-te até onde é que o barco consegue
+Speaker #1: ir e tens em consideração tipo o vento, correntes marítimas,
+Speaker #1: et cetera, et cetera.
+Speaker #1: Não é não é relevante saber saber as fórmulas e
+Speaker #1: não sei que isso é para para se fazer depois
+Speaker #1: durante o projeto, mas faz sentido os cálculos serem feitos.
+Speaker #1: Em APIE não no telemóvel não é, senão cada vez
+Speaker #1: que tens que me dar um bocadinho um cálculo estás
+Speaker #1: fodido. Tens que fazer um update à aplicação.
+Speaker #1: E para esses cálculos, basicamente são pá é uma fórmula
+Speaker #1: que ele Manda-te, os Manda-te OGPS do do telemóvel, é
+Speaker #1: porque é onde está o barco.
+Speaker #1: E tu fazes uns cálculos com base?
+Speaker #1: Em APIs meteorológicas.
+Speaker #1: Que são meteorológicas específicas de de de marés e merdas
+Speaker #1: e de estulação, e o caralho e com base numas
+Speaker #1: variáveis que os gajos é que definem, OK?
+Speaker #2: Essas APIs não sabemos quais é que é para chamar,
+Speaker #2: já temos ideia ou sabemos.
+Speaker #1: Em princípio? Sim, sim, sim. Em princípio eu estava a
+Speaker #1: considerar esta parece-me uma mais viável. Deixa-me ver ISTO aqui
+Speaker #1: num documento na pasta deste coisa.
+Speaker #1: Posso dizer qualquer.
+Speaker #1: Onde é que está?
+Speaker #1: Andando.
+Speaker #1: Hã a vez em princípio?
+Speaker #1: Em princípio esta.
+Speaker #1: Eu vou editando a Mensagem.
+Speaker #1: ISTO devia ser um ser uma lista, fazer as merdas
+Speaker #1: em condições.
+Speaker #1: OK.
+Speaker #1: Em princípio, o Storm.
+Speaker #2: 2 Storm Gasse IO yeah.
+Speaker #1: Parece-me assim a cena mais bacana. Depois eu tenho lá
+Speaker #1: um documento com mais porquê e comparação de preço e
+Speaker #1: o que é que tem? Porque esta para o preço
+Speaker #1: e não sei quê. E para a quantidade de pedidos,
+Speaker #1: porque em princípio são aquele são só aqueles barcos de
+Speaker #1: passeio que estão naquele sítio. Não há, não Há de
+Speaker #1: Ser 11 grande consumo, não é presumo lá.
+Speaker #1: Pronto é essa merda, o que é que é preciso
+Speaker #1: mais de Web?
+Speaker #1: OK pronto outra funcionalidade, os gajos têm têm um PAC
+Speaker #1: de momento e criam aquele estilo Q and a de
+Speaker #1: da I em que tu fazes uma pergunta e que
+Speaker #1: eu te devolvo-te a resposta certa consoante a nolege base
+Speaker #1: a proposta.
+Speaker #1: E depois diz-me tu que tens mexido mais nessas merdas,
+Speaker #1: te faz sentido, mas o que eu ia sugerir é
+Speaker #1: usar a Azura EAE Language, que é o.
+Speaker #1: Que é OQ and a car novo não é basicamente
+Speaker #1: mudar o nome de Bela merda.
+Speaker #1: Faz sentido.
+Speaker #2: Sim.
+Speaker #1: Usavas o quê?
+Speaker #2: Eh pá, Nós temos usado lá aquela cena do.
+Speaker #2: Dos deployment do do shot dos chat Gpt basicamente que
+Speaker #2: é fechado aos documentos que tu metes, ou seja, eu
+Speaker #2: vou-te dizer tu podes.
+Speaker #1: Dizer, mas não estamos a falar da mesma coisa, mas
+Speaker #1: dentro do Azure no.
+Speaker #2: Azure então mas.
+Speaker #1: Como é que isso se chama Caralho?
+Speaker #2: Ponto Azure.
+Speaker #2: Chegas lá e dizes queres um chato dizes queres que
+Speaker #2: o modelo que queres usar tipo um chat CPTE diz
+Speaker #2: o que queres ser alimentado como agarras num desses documentos,
+Speaker #2: perguntas e respostas, mandas para lá e pronto.
+Speaker #2: É que eu em 10 minutos ou 15, Tens um
+Speaker #2: chat a bombar.
+Speaker #2: Agora a questão podes, não é dizer a.
+Speaker #1: Minha dúvida é, então, mas isso é diferente do Ey
+Speaker #1: Language, que era OQ and a maker é que, em
+Speaker #1: princípio, usa os mesmos modelos e o.
+Speaker #2: Que eu tenho a ideia que esse era diferente, que
+Speaker #2: era mesmo baseado. Não, não tem assim, muito inteligência que
+Speaker #2: é, vai lá procurar.
+Speaker #1: A pergunta, o antigo não tinha mesmo nada, era basicamente
+Speaker #1: comparavas só.
+Speaker #1: Estou apenas ewards, mas o novo acho que já mas
+Speaker #1: pronto, então aí estou-te a dizer.
+Speaker #2: É pronto, ISTO é mais fácil para nós, para nós
+Speaker #2: para dizer.
+Speaker #2: Envolver que é.
+Speaker #1: Certo, certo.
+Speaker #2: Certo.
+Speaker #2: Claro, pois é Oo consumo.
+Speaker #1: É pá, então Pedia-te só que que desses aí um
+Speaker #1: aconselhamento neste.
+Speaker #1: Neste tópico dizias, é pá este, até porque os pressings
+Speaker #1: disto têm que ser vistos. Não tem, não tem.
+Speaker #1: Não tenho aqui, mas pronto. Basicamente eles têm um facto
+Speaker #1: com com vídeos e merdas Knowledge base.
+Speaker #1: Diferença iá EEA estimativa de de alimentar a nolage base.
+Speaker #1: Nesse caso, dizes que é banda fácil. É uma horinha
+Speaker #1: ou o caralho, não é, mas?
+Speaker #1: Ou o que for?
+Speaker #1: E é o quê secar concorrens porque consome bué de
+Speaker #1: tokens a isso.
+Speaker #1: Sacar como cornos porque consome logo bué da tokens de
+Speaker #1: CPTGPTXPTR ou 4.
+Speaker #1: Está.
+Speaker #2: Bem assim, ela está o 5 vão.
+Speaker #1: Embora, mas podes escolher ou não?
+Speaker #1: Precisas de bom facto de.
+Speaker #2: Meter o dela um básico que funciona, que aí custa
+Speaker #2: pouco dinheiro e está-se bem.
+Speaker #1: Sim o amado já estava a sugerir voz ao vivo
+Speaker #1: e não sei quê, que é interessante em pensar.
+Speaker #1: Responde estarem a pagar 1000 ou 2000 EUR por mês
+Speaker #1: para um gajo, fazer perguntar ao facto o que é
+Speaker #1: que é aquele botão foda-se, OK?
+Speaker #1: É mais o quê?
+Speaker #1: É só isso a nível da API, cenas coiso e
+Speaker #1: depois.
+Speaker #1: Precisam de um backoffice.
+Speaker #2: Para gerir o quê?
+Speaker #1: Já te vou responder, espera aí.
+Speaker #1: E há uma pronto, esta entra no Bake Office e
+Speaker #1: entra aqui. Há uma opcional.
+Speaker #1: Pá se conseguires atirar os números para o ar. Nós
+Speaker #1: não vamos mandar o número certo já porque não sabemos
+Speaker #1: as integrações que precisamos, mas os Gajos curtiam na página
+Speaker #1: pública.
+Speaker #1: De ter ou caminhar para aí é uma merda que,
+Speaker #1: em princípio, não será para fazer agora, mas curtiam ter
+Speaker #1: as reservas. Estás a perceber quando vais alugar o barco,
+Speaker #1: conseguires fazer logo a reserva pela aplicação e depois quando
+Speaker #1: tens a reserva é que recebes OATPE. Consegues aceder à
+Speaker #1: cena?
+Speaker #1: E pagadores.
+Speaker #2: Isso exato podes fazer reservation de pagamentos, é isso?
+Speaker #1: Neste momento não há, não há reservas, nem compras nem
+Speaker #1: nada. E para aí seria.
+Speaker #1: Pode não ser estimado agora?
+Speaker #1: Vamos ver o que é que eles dizem na reunião,
+Speaker #1: António, porque ISTO é aqueles gajos que nós é que
+Speaker #1: lhe estamos a vender. É uma coisa. Acho que pediram
+Speaker #1: nada específico, não é? É aqueles clássicos.
+Speaker #1: Reservas e pagamentos.
+Speaker #1: Pronto e esta parte, obviamente, precisava de.
+Speaker #1: AAPI né?
+Speaker #1: E seria de backoffice também.
+Speaker #1: Backoffice o que é que precisa backoffice? O backopice, por
+Speaker #1: enquanto, precisa só das cenas de das configurações para os
+Speaker #1: cálculos. Ou seja, tu quando calculas é com base base
+Speaker #1: nas condições atmosféricas.
+Speaker #1: E com base no barco em si, ou seja, potência,
+Speaker #1: potência da bateria, consumo médio-hora.
+Speaker #2: Ao fim, se tem lá uma lista de barcos, é
+Speaker #2: isso.
+Speaker #1: É os gajos, os gajos meterem esses dados e é
+Speaker #1: o tamanho do casco, essas merdas.
+Speaker #1: Pronto, não sei se há a necessidade de termos algum
+Speaker #1: tipo de user management no Bake Office. O login é
+Speaker #1: só por OTP, mas presumo que eles vão fazer o
+Speaker #1: quê? Vão lá banir utilizadores.
+Speaker #1: É necessário.
+Speaker #1: Há de ter é isso a cena dos utilizadores há
+Speaker #1: de ter uma lógica tipo, ou seja, quando quando compras
+Speaker #1: tens AOTP para aceder e depois tem um prazo e
+Speaker #1: depois disso deixa de ser válido, OK?
+Speaker #1: Só para considerares que tem ali uma horita de lógica
+Speaker #1: ou 2.
+Speaker #1: E outra era.
+Speaker #1: Também em termos de.
+Speaker #1: Ice.
+Speaker #1: Estimado agora.
+Speaker #1: Pronto.
+Speaker #1: Em princípio, ISTO não me estou a lembrar de mais
+Speaker #1: nada a.
+Speaker #3: Nível de aplicações não estamos AA enviar notificações. Não estamos
+Speaker #3: a fazer nada.
+Speaker #3: Acho que é essa merda.
+Speaker #1: Como é que tu estás de estimativas? Chupa dito, não
+Speaker #1: é, estás aí só tu agora.
+Speaker #1: ISTO é para.
+Speaker #1: A apresentação é dia 10.
+Speaker #2: Mas também me parece ser uma coisa rápida.
+Speaker #1: Sim, eu acho que a maior parte das cenas, por
+Speaker #1: exemplo, aqui o mais complicado é estares aí a ver
+Speaker #1: os preços e as merdas para a cena da EAA.
+Speaker #1: De resto, acho que para TI é um catchup assim.
+Speaker #2: Não é nada de curso, está bem? E dou-te novidades
+Speaker #2: esta semana ainda.
+Speaker #1: Agradecido que esta está está principalmente com o amado. Portanto
+Speaker #1: ele, como não está, tem que ser eu a olhar.
+Speaker #1: Queres o tu tens acesso à pasta de ME não.
+Speaker #2: É tenho.
+Speaker #2: Mas se quiseres por aí o link agradeço que assim
+Speaker #2: escuse andar à procura da placa.
+Speaker #1: Era o que eu ia fazer, não? E tu tens
+Speaker #1: acesso, então procura que era o pronto.
+Speaker #2: Depois é que eu nunca está dentro dos gajos certos
+Speaker #2: a.
+Speaker #1: Cena que me foda é as empresas iá.
+Speaker #2: Coisa um gajo tem de andar sempre ali iá.
+Speaker #1: Ops é o link errado, espera aí.
+Speaker #1: Ó pá Mandas já para a pasta específica, eu dentro
+Speaker #1: dessa pasta que diz Estimation, tenho bastante documentação tipo sobre
+Speaker #1: sobre as cenas de meteorologia e o caralho e tenho
+Speaker #1: mesmo já uma fórmula sugerida e tal.
+Speaker #2: OK, está bem, pronto, é isso?
+Speaker #1: Olá, Puto um abraço. Muito obrigado.
